@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hans Valerian Lenice, I'm graduated from Universitas Dian Nuswantoro with Major Computer Science. I am focuses on Data Engineering and recently I interest in Backend Programming.
+My name is Hans Valerian Lenice. I graduated from Dian Nuswantoro University with a major in Computer Science. I focus on Data Engineering and have recently become interested in Backend Programming.
 <!--
 **ValHans/ValHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
