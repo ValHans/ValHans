@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hans Valerian Lenice an active student majoring in Computer Science at Universitas Dian Nuswantoro. I am focuses on Data Engineering and want to learn more about Data Engineering also Data Analyst.
+My name is Hans Valerian Lenice, I'm graduated from Universitas Dian Nuswantoro with Major Computer Science. I am focuses on Data Engineering and recently I interest in Backend Programming.
 <!--
 **ValHans/ValHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
